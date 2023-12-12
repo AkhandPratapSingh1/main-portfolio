@@ -46,7 +46,13 @@ export default function GithubRepoCard({ repo, theme }) {
               logos={repo.languages}
             />
           </div>
-          {/* <div className="repo-stats">
+        </div>
+        <button className="live-button">
+          <a href={repo.liveLink} target="blank">
+            Live Project
+          </a>
+        </button>
+        {/* <div className="repo-stats">
           <div className="repo-left-stat">
             <span>
               <div className="language-color" style={{ backgroundColor: repo.node.primaryLanguage.color }}></div>
@@ -72,7 +78,6 @@ export default function GithubRepoCard({ repo, theme }) {
             <p>{repo.node.diskUsage} KB</p>
           </div>
         </div> */}
-        </div>
       </Fade>
     </div>
   );
