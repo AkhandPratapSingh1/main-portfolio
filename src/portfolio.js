@@ -69,7 +69,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/",
+    link: "https://instagram.com/_akhand_08",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
