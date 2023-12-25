@@ -37,6 +37,13 @@ export default function Greeting(props) {
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
+                <Button
+                  text="Let's Talk Anonymously"
+                  newTab={true}
+                  href="https://surveyheart.com/form/65899a1e26e8f13d670069ac"
+                  theme={theme}
+                  className="portfolio-repo-btn"
+                />
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
