@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Akhand Pratap",
   logo_name: "Akhand Pratap",
-  nickname: "",
+  nickname: "Open to Work",
   subTitle:
     "An enthusiastic individual driven to contribute to comprehensive product development, specializing in the creation of sustainable and scalable social and technical systems that generate meaningful impact.",
   resumeLink:
