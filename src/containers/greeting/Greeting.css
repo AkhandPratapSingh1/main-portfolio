@@ -93,3 +93,18 @@
     justify-content: center;
   }
 }
+/* Default styles for the buttons */
+.portfolio-repo-btn-div {
+  display: flex;
+  flex-direction: row; /* Buttons are in a row by default */
+}
+
+/* Media query for mobile view (adjust the max-width as needed) */
+@media (max-width: 600px) {
+  .portfolio-repo-btn-div {
+    flex-direction: column; /* Change to column layout for mobile view */
+  }
+}
+.portfolio-repo-btn {
+  margin-left: 10px;
+}
