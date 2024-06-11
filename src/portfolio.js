@@ -126,7 +126,7 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Web Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Constructing a dynamic and responsive front-end for websites with React-Redux.",
@@ -149,7 +149,7 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
+          skillName: "PHP",
           fontAwesomeClassname: "simple-icons:php",
           style: {
             color: "#CC6699",
@@ -170,27 +170,27 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        {
-          skillName: "NodeJS",
-          imageSrc: "node.png",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Angular",
-          fontAwesomeClassname: "simple-icons:angular",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
+        // {
+        //   skillName: "NodeJS",
+        //   imageSrc: "node.png",
+        //   style: {
+        //     color: "#339933",
+        //   },
+        // },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
+        // {
+        //   skillName: "Angular",
+        //   fontAwesomeClassname: "simple-icons:angular",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
       ],
     },
     {
@@ -210,7 +210,7 @@ const skills = {
           },
         },
         {
-          skillName: "Firebase",
+          skillName: "Jira",
           fontAwesomeClassname: "simple-icons:jira",
           style: {
             color: "blue",
