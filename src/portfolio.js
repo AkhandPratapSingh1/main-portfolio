@@ -300,19 +300,19 @@ const competitiveSites = {
 
 const degrees = {
   degrees: [
-    {
-      title: "PK University of Shivpuri",
-      subtitle: "B.Tech. in Computer Science and Engineering",
-      logo_path: "pk_shivpuri.png",
-      alt_name: "PK university Shivpuri",
-      duration: "2022 - 2025",
-      descriptions: [
-        "⚡ Engaged in foundational software engineering subjects, encompassing DS, Algorithms, DBMS, OS, CA, AI.",
-        "⚡ Expanded expertise through courses in Deep Learning, Data Science, Cloud Computing, and Full Stack Development.",
-        "⚡ Collaborated on real-world projects, applying theoretical knowledge to practical scenarios.",
-      ],
-      website_link: "http://pkuniversity.edu.in/",
-    },
+    // {
+    //   title: "PK University of Shivpuri",
+    //   subtitle: "B.Tech. in Computer Science and Engineering",
+    //   logo_path: "pk_shivpuri.png",
+    //   alt_name: "PK university Shivpuri",
+    //   duration: "2022 - 2025",
+    //   descriptions: [
+    //     "⚡ Engaged in foundational software engineering subjects, encompassing DS, Algorithms, DBMS, OS, CA, AI.",
+    //     "⚡ Expanded expertise through courses in Deep Learning, Data Science, Cloud Computing, and Full Stack Development.",
+    //     "⚡ Collaborated on real-world projects, applying theoretical knowledge to practical scenarios.",
+    //   ],
+    //   website_link: "http://pkuniversity.edu.in/",
+    // },
     {
       title: "Dayalbagh Educational Institute",
       subtitle: "Diploma in Software Developement",
